@@ -1,0 +1,24 @@
+body[theme="black"]{
+    background-color: #000;
+}
+body[theme="black"] .section{
+    color: #fff;
+}
+body[theme="cyan"]{
+    background-color: #80becc;
+}
+body[theme="cyan"] .section{
+    color: #121e21;
+}
+body[theme="salmon"]{
+    background-color: salmon;
+}
+body[theme="salmon"] .section{
+    color: rgb(52, 25, 21);
+}
+body[theme="white"]{
+    background-color: #fff;
+}
+body[theme="white"] .section{
+    color: #000;
+}
