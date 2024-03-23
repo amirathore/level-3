@@ -7,6 +7,10 @@
     --dcyan : #121e21;
 }
 
+.vdodiv{
+    clip-path: circle(var(--clip) at 50% 50%);  
+}
+
 *::selection{
     background-color: var(--salmon);
 }
